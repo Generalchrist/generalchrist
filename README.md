@@ -7,7 +7,7 @@
 
 
 
-- You can visit my web site for more information [Here](https://mertpatlar.com/)
+- You can visit my web site for more information <a href="https://mertpatlar.com/" target="_blank">mertpatlar.com</a>
 
 <br/>  
 
