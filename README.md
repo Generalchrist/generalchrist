@@ -7,7 +7,7 @@
 
 
 <p style="margin-top:10px;margin-bottom:10px">
-- You can visit my web site for more information <a href="https://mertpatlar.com/" target="_blank">mertpatlar.com</a>
+- You can visit my web site for more information <a href="https://mertpatlar.com/ref?=github" target="_blank">mertpatlar.com</a>
 </p>
 
 <table align="center">
