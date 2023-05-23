@@ -6,13 +6,9 @@
 ### <div align="center">I'm a Student of Ankara University and Full-Stack Web Developer, Turkey.</div>
 
 
-
+<div style="margin-top:10px;margin-bottom:10px">
 - You can visit my web site for more information <a href="https://mertpatlar.com/" target="_blank">mertpatlar.com</a>
-
-<br/>  
-
-<br/>
-
+</div>
 
 <table align="center">
 <tr><td align="top" width="33%">
