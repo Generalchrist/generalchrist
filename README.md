@@ -67,15 +67,17 @@
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
 
 
-<div width="50%">
+<table>
+<tr>
+<td align="center" width="50%">
 <img src="https://media.tenor.com/QKgNS_rwryQAAAAd/benim-s%C4%B1fat.gif" style="height:190px"/>
-</div>
-<div width="50%">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=generalchrist&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-alt="adam-pw"
-bg_color=#808080/>
-</div>
+</td>
+<td align="center" width="50%">
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=generalchrs&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" /></div>  
+</td>
+</tr>
+</table>
+
 
 
 
@@ -83,7 +85,7 @@ bg_color=#808080/>
 
 
 #
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=generalchrs&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" /></div>  
+
 
 
 <br/>  
