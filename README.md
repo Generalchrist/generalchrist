@@ -1,25 +1,14 @@
-## <div align="center">I'm Indra Niko Saputra <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
+## <div align="center">I'm Mert Patlar <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
 
 <br>
-<div style ="display:flex;" align="center">
-  <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:250px"/>
-  <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" style="height:200px"/>
-  <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
-</div>
-
-### <div align="center">I'm a Student of Diponegoro University, Indonesia. Still in the process of learning in the world of Web Development</div>
 
 
-- 🔭 I’m currently looking for internship
+### <div align="center">I'm a Student of Ankara University, Turkey.</div>
 
 
-- 🌱 I’m currently learning ReactJS and NodeJS
 
+- ❓ You can Email Me Through [Here](mailto:meertpatlar@gmail.com)
 
-- ❓ You can Email Me Through [Here](mailto:indraniko20@gmail.com)
-
-
-- ⚡ Fun fact: My Waifu is a Snek <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:20px"/>
 
 
 <br/>  
@@ -89,7 +78,7 @@
 <img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="height:190px"/>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Niko-Cloud&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=generalchrist&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
 alt="adam-pw"
 bg_color=#808080/>
 
@@ -97,17 +86,8 @@ bg_color=#808080/>
 
 
 #
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31oqw4q4lmris3kpeqeyi4ojxnkm&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=generalchrs&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" /></div>  
+
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Niko-Cloud&&style=flat-square" align="center" />
-</div>   
-
-<br />
-
-------
-
-[Niko-Cloud](https://github.com/Niko-Cloud)
-Last Edited 07/11/2022
