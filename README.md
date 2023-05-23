@@ -9,7 +9,11 @@
 
 - ❓ You can Email Me Through [Here](mailto:meertpatlar@gmail.com)
 
-
+<div align="center">
+<a href="https://linkedin.com/in/mert-patlar" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
 
 <br/>  
 
@@ -59,21 +63,21 @@
 
 
 ## Connect with me
-<div align="center">
-<a href="https://linkedin.com/in/mert-patlar" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-<br/>
+
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
-<img src="https://media.tenor.com/QKgNS_rwryQAAAAd/benim-s%C4%B1fat.gif" style="height:190px;width:50%"/>
 
 
-
+<div width="50%">
+<img src="https://media.tenor.com/QKgNS_rwryQAAAAd/benim-s%C4%B1fat.gif" style="height:190px"/>
+</div>
+<div width="50%">
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs?username=generalchrist&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
 alt="adam-pw"
-bg_color=#808080 style="width:50%"/>
+bg_color=#808080/>
+</div>
+
+
 
 </div>
 
