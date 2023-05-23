@@ -7,19 +7,12 @@
 
 
 
-- You can Email Me Through [Here](mailto:meertpatlar@gmail.com)
-
-<div align="center">
-<a href="https://linkedin.com/in/mert-patlar" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
+- You can visit my web site for more information [Here](mertpatlar.com)
 
 <br/>  
 
 <br/>
 
-## Tech Stack
 
 <table align="center">
 <tr><td align="top" width="33%">
@@ -63,7 +56,6 @@
 
 </td></tr></table>
 
-<br/>  
 
 
 ## 
