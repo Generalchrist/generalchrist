@@ -7,7 +7,7 @@
 
 
 
-- You can visit my web site for more information [Here](mertpatlar.com)
+- You can visit my web site for more information [Here](https://mertpatlar.com/)
 
 <br/>  
 
