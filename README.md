@@ -1,13 +1,13 @@
-## <div align="center">I'm Mert Patlar <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
+## <div align="center">I'm Mert Patlar </div>
 
 <br>
 
 
-### <div align="center">I'm a Student of Ankara University, Turkey.</div>
+### <div align="center">I'm a Student of Ankara University and Full-Stack Web Developer, Turkey.</div>
 
 
 
-- ❓ You can Email Me Through [Here](mailto:meertpatlar@gmail.com)
+- You can Email Me Through [Here](mailto:meertpatlar@gmail.com)
 
 <div align="center">
 <a href="https://linkedin.com/in/mert-patlar" target="_blank">
