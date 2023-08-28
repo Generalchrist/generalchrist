@@ -61,7 +61,7 @@
 <table width="100%">
 <tr>
 <td align="center" width="50%">
-<img src="https://media.tenor.com/QKgNS_rwryQAAAAd/benim-s%C4%B1fat.gif" style="height:190px"/>
+<img src="https://i.imgur.com/hSIKUVt.png" style="height:190px"/>
 
 ##
 
