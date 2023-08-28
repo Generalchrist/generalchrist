@@ -61,7 +61,10 @@
 <table width="100%">
 <tr>
 <td align="center" width="50%">
-<img src="https://i.imgur.com/hSIKUVt.png" style="height:190px"/>
+<a href="https://github.com/Generalchrist/Next13-SpotifyClone">
+ <img src="https://i.imgur.com/hSIKUVt.png" style="height:190px"/>
+ <h1>Spotify Clone Project</h1>
+</a>
 
 ##
 
