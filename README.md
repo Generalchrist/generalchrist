@@ -63,7 +63,7 @@
 <td align="center" width="50%">
 <a href="https://github.com/Generalchrist/Next13-SpotifyClone">
  <img src="https://i.imgur.com/hSIKUVt.png" style="height:190px"/>
- <h1>Spotify Clone Project</h1>
+ <h3>Spotify Clone Project</h3>
 </a>
 
 ##
